@@ -1,0 +1,2 @@
+este trabajo es una pagina web creada con html usando etiquetas semanticas, contiene una biografia personal donde hablo sobre mis gustos de musica,
+comida, peliculas favoritas y entre otros interes. Contiene 17 commits hechos en git bash para la materia Programacion Web Estatica y Laboratorio Web con el profesor Wiedermann.
